@@ -18,6 +18,6 @@ elif score >= 40 and score <50:
   print("you got", score, "% and your grade is C+")
 elif score > 100:
   print("Please enter a valid score")
-else:
+else: 
   print("Sorry you are out of Grade")
  
